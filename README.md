@@ -1,5 +1,13 @@
 # Hello!
-Frontend-focused Full-Stack Developer currently pursuing a B.E. in Computer Engineering. Experienced in building responsive, scalable web applications with clean UI and reliable backend architecture.<br><br>Actively seeking freelance projects, contract roles, and internship opportunities to contribute to impactful products while continuing to grow as a software engineer.<br>
+# Hi, I'm Rahul 🦥
+
+I'm a Full-Stack Engineer and Computer Engineering student specializing in building high-performance web applications, custom developer tools, and robust backend architectures. My focus is on bridging the gap between pixel-perfect, highly fluid user interfaces and heavy-lifting backend systems—handling everything from media processing pipelines to security sandboxing and secure SaaS infrastructure.
+
+Instead of relying on boilerplate templates, I thrive on building core engine logic from scratch. My technical playground involves leveraging React, TypeScript, and Node.js alongside low-level tools like FFmpeg, containerization, and isolated sandboxing environments to solve complex engineering bottlenecks. 
+
+🚀 **Actively seeking impactful freelance projects, contract roles, and software engineering internships.** If you need someone who can architect scalable systems and craft high-end user experiences, let's build something serious.
+
+
 
 
 
